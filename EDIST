@@ -1,4 +1,4 @@
-// A Naive recursive Java program to find minimum number
+// Recursive Java program to find minimum number
 // operations to convert str1 to str2
 class EDIST
 {
